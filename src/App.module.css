@@ -1,0 +1,69 @@
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+.BtnHeadContainer {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding-top: 10px;
+}
+.logoutColumn {
+    margin-left: auto;
+}
+.BtnContainer {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    padding-top: 10px;
+}
+.formContainer {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.flexColumn {
+    display: flex;   
+    height: 60%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*align-content: space-evenly;*/
+}
+.formInput {
+    width: 100%;
+    margin-top: 10px;
+}
+.formBtn {
+    width: 100%;
+    margin-top: 10px;
+}
+.linkMargin {
+    margin: 0 0 0 10px;
+}
+.alignLeft {
+    align-self: flex-start;
+    margin: 0 0 5px 30px;
+}
+.redText {
+    color: crimson;
+}
+.width300px {
+    width: 300px;
+}
+.width50 {
+    width: 50%;
+}
+

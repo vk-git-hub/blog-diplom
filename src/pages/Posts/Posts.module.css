@@ -1,0 +1,28 @@
+
+.cardMargin {
+    margin-bottom: 10px;
+}
+.cardItem {
+    width: 330px;
+}
+.searchStyles {
+    width: 100%;
+    margin-top: 20px;
+}
+.spaceBetween {
+    justify-content: space-between;
+}
+.addPostBtn {
+    width: 100%;
+    margin: 10px;
+}
+.addForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.addFormContainer {
+    width: 100%;
+}
+

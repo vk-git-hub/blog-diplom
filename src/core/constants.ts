@@ -1,0 +1,12 @@
+export const ACTIONS = {
+  // SEND_LOGIN: 'SEND_LOGIN',   
+  LOGIN_USER: 'LOGIN_USER',
+  LOGIN_USER_SUCCESS: 'LOGIN_USER_SUCCESS',
+  LOGIN_USER_ERROR: 'LOGIN_USER_ERROR',
+  LOG_OUT: 'LOG_OUT',
+};
+
+export const FIREBASE_AUTH = {
+  INVALIDE_AUTH: 'Ошибка авторизации',
+};
+
